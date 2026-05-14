@@ -143,3 +143,6 @@ Los commits deben reflejar el progreso real del proyecto. Ejemplo de historia su
 ## Créditos
 
 Proyecto desarrollado para la materia **Desarrollo de Sistemas Web** (Prof. Trinidad, Miguel Angel).
+ 
+"## Notas de seguridad adicionales" 
+"Proyecto probado contra SQLi, XSS y CSRF manualmente." 
